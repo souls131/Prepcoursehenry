@@ -1,2 +1,1 @@
-# Prepcoursehenry
-Esto es un repositorio del Prepcourse Modulo 2
+Este repositorio es una prueba de como clonarlo desde Github a mi computadora
